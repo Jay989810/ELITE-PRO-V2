@@ -3,12 +3,12 @@ const chalk = require('chalk')
 //Feel free to customize my bot informations to yours. Starting from this point
 //owmner v card
 global.ytname = "YT: INSIGHTTECH" //ur yt chanel name
-global.socialm = "GitHub: Elite-MD" //ur github or insta name
+global.socialm = "GitHub: JAY989810" //ur github or insta name
 global.location = "ABUJA, Nigeria" //ur location
 
 //new settings 
 global.botname = 'JAY' //ur bot name
-global.ownernumber = '2349018541341' //ur owner number
+global.ownernumber = '2348161742506' //ur owner number
 global.ownername = 'JAY T' //ur owner name
 global.websitex = "https://youtube.com/@elitepro-empire"
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' // Change this image link to yours.
